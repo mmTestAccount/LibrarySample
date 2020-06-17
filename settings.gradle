@@ -1,0 +1,3 @@
+include ':myRetrofitHttp'
+include ':app'
+rootProject.name = "LibrarySample"
