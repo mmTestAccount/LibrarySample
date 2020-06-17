@@ -1,3 +1,3 @@
-include ':myRetrofitHttp'
+include ':mylibrary'
 include ':app'
 rootProject.name = "LibrarySample"
